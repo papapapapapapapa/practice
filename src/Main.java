@@ -1,3 +1,4 @@
+取得16進制萬國碼
 import java.util.*;
 public class Main {
 
